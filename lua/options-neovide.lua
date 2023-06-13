@@ -1,4 +1,4 @@
-vim.o.guifont = "Source Code Pro:h16"
+vim.o.guifont = "Hack Nerd Font:h16"
 
 vim.g.neovide_cursor_trail_size = 0.1
 vim.g.neovide_cursor_antialiasing = true

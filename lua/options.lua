@@ -9,6 +9,7 @@ vim.o.number = true
 vim.o.colorcolumn = "120"
 
 vim.o.showmode = false
+vim.o.autowriteall = true
 
 -- vim.o.showtabline = 2
 vim.o.whichwrap = "b,s,<,>,[,]"
